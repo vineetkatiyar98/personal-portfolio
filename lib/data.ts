@@ -62,7 +62,7 @@ export const projectsData = [
   {
     title: "Movie",
     description:
-      "BookMyShow App clone. Here we can book our movie sheet if sheet available in your given date and time",
+      "BookMyShow App clone. Here you can book your movie seat if seat available in your given date and time",
     tags: ["React", "TypeScript", "Next.js", "CSS", "nodejs"],
     imageUrl: movie,
   },
