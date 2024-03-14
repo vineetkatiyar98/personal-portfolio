@@ -2,7 +2,7 @@ import React from "react";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import vinzone from "@/public/vinzone.png";
-import movie from "@/public/movie.png";
+import job from "@/public/job-portal.png";
 import blog from "@/public/blog.png";
 
 export const links = [
@@ -60,11 +60,19 @@ export const projectsData = [
     imageUrl: vinzone,
   },
   {
-    title: "Movie",
+    title: "Job-Portal",
     description:
-      "BookMyShow App clone. Here you can book your movie seat if seat available in your given date and time",
-    tags: ["React", "TypeScript", "Next.js", "CSS", "nodejs"],
-    imageUrl: movie,
+      " Job-Portal can help you find jobs,internships and new hires. ",
+    tags: [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "TailwindCSS",
+      "Prisma",
+      "PostgreSQL",
+      "Prisma",
+    ],
+    imageUrl: job,
   },
   {
     title: "Blog App",
